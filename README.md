@@ -33,8 +33,7 @@ I'm a passionate and innovative **Data Scientist** and **Full-Stack Developer** 
 📱 **Let's Connect**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Khin--90-black?logo=github&style=flat-square)](https://github.com/Khin-90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4shedo-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/4shedo)
-[![Twitter](https://img.shields.io/badge/Twitter-2shedo-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/2shedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4shedo-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kinga-hinzano-khin2004)
 
 ---
 
