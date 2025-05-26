@@ -1,92 +1,43 @@
-<h1 align="center">Hi 👋, I'm Hinzano </h1>
-<h3 align="center">🚀 Data Scientist | Full-Stack Developer | Innovator</h3>
+# Hi, I'm Hinzano 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Turning+ideas+into+intelligent+solutions.;Building+cool+stuff+with+AI+%26+code." alt="Typing SVG" />
-</p>
-
+### Data Science & Full-Stack Development Student
 
 ---
 
-🌟 **About Me**
+## About Me
 
-I'm a passionate and innovative **Data Scientist** and **Full-Stack Developer** with a deep love for building **scalable**, **user-first**, and **intelligent digital products**. From backend systems to frontend finesse and data magic, I’m all about solving real-world problems with tech that matters.
+I'm a student passionate about data science and full-stack development. I enjoy building projects and learning new technologies.
 
-- 🔭 Currently working on: **Web 3**
-- 🌱 Currently learning: **Backend Essentials **
-- 💬 Ask me about: **Full-Stack Development**, **Data Science**
-- 📩 Reach me at: **hinzanno@gmail.com**
-
----
-
-🛠️ **Tech Stack & Tools**
-
-```txt
-💻 Languages:        Python | JavaScript | Java | C++ | C# | PHP | HTML | CSS | Pug
-🧠 AI/ML:            TensorFlow | PyTorch | scikit-learn | OpenCV | pandas | seaborn
-🌐 Frontend:         React | Next.js | Tailwind | Bootstrap
-⚙️ Backend:          Node.js | NestJS | MySQL | MongoDB | Firebase | Docker
-🛠️ Tools & Others:  AWS | Git | Figma | Postman | Illustrator | Blender | Linux | CanvasJS
-```
+- 🔭 Currently working on: Web 3 concepts
+- 🌱 Currently learning: Backend development and CompTIA Security+
+- 💬 Ask me about: Full-stack development or data science basics
+- 📩 Contact: hinzanno@gmail.com
 
 ---
 
-📱 **Let's Connect**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Khin--90-black?logo=github&style=flat-square)](https://github.com/Khin-90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hinzano-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kinga-hinzano-khin2004)
-
----
-
-📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khin-90&show_icons=true&theme=radical" alt="Khin's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khin-90&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khin-90&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## Skills & Tools
+💻 Languages: Python | JavaScript | Java | C | HTML | CSS | TypeScript
+🧠 Data Science: pandas | scikit-learn | TensorFlow basics
+🌐 Frontend: React | Next.js | Tailwind
+⚙️ Backend: Node.js | MySQL | MongoDB
+🛠️ Tools: Git | Linux | Docker | Kuberneets
 
 ---
 
-📅 **Profile Visitor Count**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khin-90&style=flat-square&color=blue" alt="Visitor count"/>
-</p>
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Khin--90-black?logo=github)](https://github.com/Khin-90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hinzano-blue?logo=linkedin)](https://www.linkedin.com/in/kinga-hinzano-khin2004)
 
 ---
 
-🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khin-90&theme=radical&no-frame=true&column=4" alt="GitHub Trophy"/>
-</p>
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khin-90&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khin-90&layout=compact)
 
 ---
 
-🌟 **Skill Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+## Featured Project
 
----
-
-📂 **Featured Projects**
-<p align="center">
-  <a href="https://github.com/Khin-90/PochiYangu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khin-90&repo=PochiYangu&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Khin-90/KuaSecure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khin-90&repo=KuaSecure&theme=radical" />
-  </a>
-</p>
-
----
-
-🔹 **Quote I Live By**
-> _"Code like a poet. Solve like a scientist. Build like a visionary."_
-
----
+[![PochiYangu](https://github-readme-stats.vercel.app/api/pin/?username=Khin-90&repo=PochiYangu)](https://github.com/Khin-90/PochiYangu)
