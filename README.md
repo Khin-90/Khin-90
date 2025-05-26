@@ -40,4 +40,4 @@ I'm a student passionate about data science and full-stack development. I enjoy 
 
 ## Featured Project
 
-[![PochiYangu](https://github-readme-stats.vercel.app/api/pin/?username=Khin-90&repo=PochiYangu)](https://github.com/Khin-90/PochiYangu)
+[![PochiYangu](https://github-readme-stats.vercel.app/api/pin/?username=Khin-90&repo=Pochi)](https://github.com/Khin-90/Pochi)
